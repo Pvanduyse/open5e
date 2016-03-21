@@ -9,7 +9,7 @@ and bone. The seemingly innocuous vines that hang over a cave entrance
 might grasp and choke anyone who pushes through them. A net hidden among
 the trees might drop on travelers who pass underneath. In a fantasy
 game, unwary adventurers can fall to their deaths, be burned alive, or
-fall under a fusillade of poisoned darts.
+fall under a fusillade of :ref:`srd:poisoned` darts.
 
 A trap can be either mechanical or magical in nature. **Mechanical
 traps** include pits, arrow traps, falling blocks, water-filled rooms,
@@ -210,8 +210,8 @@ any edged weapon or edged tool. On a failed check, the trap triggers.
 
 When the trap is triggered, the net is released, covering a
 10-foot-square area. Those in the area are trapped under the net and
-restrained, and those that fail a DC 10 Strength saving throw are also
-knocked prone. A creature can use its action to make a DC 10
+:ref:`srd:restrained`, and those that fail a DC 10 Strength saving throw are also
+knocked :ref:`srd:prone`. A creature can use its action to make a DC 10
 
 Strength check, freeing itself or another creature within its reach on a
 success. The net has AC 10 and 20 hit points. Dealing 5 slashing damage
@@ -336,14 +336,14 @@ Poison Needle
 
 Mechanical trap
 
-A poisoned needle is hidden within a treasure chest's lock, or in
+A :ref:`srd:poisoned` needle is hidden within a treasure chest's lock, or in
 something else that a creature might open. Opening the chest without the
 proper key causes the needle to spring out, delivering a dose of poison.
 
 When the trap is triggered, the needle extends 3 inches straight out
 from the lock. A creature within range takes 1 piercing damage and 11
 (2d10) poison damage, and must succeed on a DC 15 Constitution saving
-throw or be poisoned for 1 hour.
+throw or be :ref:`srd:poisoned` for 1 hour.
 
 A successful DC 20 Intelligence (Investigation) check allows a character
 to deduce the trap's presence from alterations made to the lock to
@@ -376,7 +376,7 @@ difficult terrain. Whenever the sphere enters a creature's space or a
 creature enters its
 space while it's rolling, that creature must succeed on a DC 15
 Dexterity saving throw or take 55 (10d10) bludgeoning damage and be
-knocked prone.
+knocked :ref:`srd:prone`.
 
 The sphere stops when it hits a wall or similar barrier. It can't go
 around corners, but smart dungeon builders incorporate gentle, curving

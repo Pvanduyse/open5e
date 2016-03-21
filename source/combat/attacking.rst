@@ -125,7 +125,7 @@ Ranged Attacks in Close Combat
 Aiming a ranged attack is more difficult when a foe is next to you. When
 you make a ranged attack with a weapon, a spell, or some other means,
 you have disadvantage on the attack roll if you are within 5 feet of a
-hostile creature who can see you and who isn't incapacitated.
+hostile creature who can see you and who isn't :ref:`srd:incapacitated`.
 
 Melee Attacks
 ~~~~~~~~~~~~~
@@ -190,18 +190,18 @@ and must be within your reach. Using at least one free hand, you try to
 seize the target by making a grapple check instead of an attack roll: a
 Strength (Athletics) check contested by the target's Strength
 (Athletics) or Dexterity (Acrobatics) check (the target chooses the
-ability to use). If you succeed, you subject the target to the grappled
+ability to use). If you succeed, you subject the target to the :ref:`srd:grappled`
 condition (see appendix A). The condition specifies the things that end
 it, and you can release the target whenever you like (no action
 required).
 
-**Escaping a Grapple.** A grappled creature can use
+**Escaping a Grapple.** A :ref:`srd:grappled` creature can use
 its action to escape. To do so, it must succeed on a Strength
 (Athletics) or Dexterity (Acrobatics) check contested by your Strength
 (Athletics) check.
 
-**Moving a Grappled Creature.** When you move, you can drag or carry
-the grappled creature with you, but your speed is halved, unless the
+**Moving a :ref:`srd:Grappled` Creature.** When you move, you can drag or carry
+the :ref:`srd:grappled` creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
 
 
@@ -218,7 +218,7 @@ Shoving a Creature
 ^^^^^^^^^^^^^^^^^^
 
 Using the Attack action, you can make a special melee attack to shove a
-creature, either to knock it prone or push it away from you. If you're
+creature, either to knock it :ref:`srd:prone` or push it away from you. If you're
 able to make multiple attacks with the Attack action, this attack
 replaces one of them.
 
@@ -226,5 +226,5 @@ The target must be no more than one size larger than you and must be
 within your reach. Instead of making an attack roll, you make a Strength
 (Athletics) check contested by the target's Strength (Athletics) or
 Dexterity (Acrobatics) check (the target chooses the ability to use). If
-you win the contest, you either knock the target prone or push it 5 feet
+you win the contest, you either knock the target :ref:`srd:prone` or push it 5 feet
 away from you.

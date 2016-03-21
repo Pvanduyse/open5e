@@ -62,14 +62,14 @@ Low furniture, rubble, undergrowth, steep stairs, snow, and shallow bogs
 are examples of difficult terrain. The space of another creature,
 whether hostile or not, also counts as difficult terrain.
 
-Being Prone
+Being :ref:`srd:Prone`
 ~~~~~~~~~~~
 
 Combatants often find themselves lying on the ground, either because
 they are knocked down or because they throw themselves down. In the
-game, they are prone, a condition described in appendix A.
+game, they are :ref:`srd:prone`, a condition described in appendix A.
 
-You can **drop prone** without using any of your
+You can **drop :ref:`srd:prone`** without using any of your
 speed. **Standing up** takes more effort; doing so costs an amount of
 movement equal to half your speed. For example, if your speed is 30
 feet, you must spend
@@ -77,7 +77,7 @@ feet, you must spend
 15 feet of movement to stand up. You can't stand up if you don't have
 enough movement left or if your speed is 0.
 
-To move while prone, you must **crawl** or use
+To move while :ref:`srd:prone`, you must **crawl** or use
 magic such as teleportation. Every foot of movement while crawling costs
 1 extra foot. Crawling 1 foot in difficult terrain, therefore, costs 3
 feet of movement.
@@ -148,7 +148,7 @@ Flying Movement
 ~~~~~~~~~~~~~~~
 
 Flying creatures enjoy many benefits of mobility, but they must also
-deal with the danger of falling. If a flying creature is knocked prone,
+deal with the danger of falling. If a flying creature is knocked :ref:`srd:prone`,
 has its speed reduced to 0, or is otherwise deprived of the ability to
 move, the creature falls, unless it has the ability to
 

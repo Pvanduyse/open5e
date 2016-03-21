@@ -149,7 +149,7 @@ Dropping to 0 Hit Points
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
 When you drop to 0 hit points, you either die outright or fall
-unconscious, as explained in the following sections.
+:ref:`srd:unconscious`, as explained in the following sections.
 
 Instant Death
 ~~~~~~~~~~~~~~~~~~~
@@ -163,11 +163,11 @@ hit points. If she takes 18 damage from an attack, she is reduced to 0
 hit points, but 12 damage remains. Because the remaining damage equals
 her hit point maximum, the cleric dies.
 
-Falling Unconscious
+Falling :ref:`srd:Unconscious`
 ~~~~~~~~~~~~~~~~~~~
 
 If damage reduces you to 0 hit points and fails to kill you, you fall
-unconscious (see appendix A). This unconsciousness ends if you regain
+:ref:`srd:unconscious` (see appendix A). This :ref:`srd:unconscious`ness ends if you regain
 any hit points.
 
 Death Saving Throws
@@ -203,10 +203,10 @@ The best way to save a creature with 0 hit points is to heal it. If
 healing is unavailable, the creature can at least be stabilized so that
 it isn't killed by a failed death saving throw.
 
-You can use your action to administer first aid to an unconscious
+You can use your action to administer first aid to an :ref:`srd:unconscious`
 creature and attempt to stabilize it,
 which requires a successful DC 10 Wisdom (Medicine) check. A **stable** creature doesn't make death saving
-throws, even though it has 0 hit points, but it does remain unconscious.
+throws, even though it has 0 hit points, but it does remain :ref:`srd:unconscious`.
 The creature stops being stable, and must start making death saving
 throws again, if it takes any damage. A stable creature that isn't
 healed regains 1 hit point after 1d4 hours.
@@ -215,8 +215,8 @@ Monsters and Death
 ~~~~~~~~~~~~~~~~~~
 
 Most GMs have a monster die the instant it drops to 0 hit points, rather
-than having it fall unconscious and make death saving throws. Mighty villains and special nonplayer characters
-are common exceptions; the GM might have them fall unconscious and
+than having it fall :ref:`srd:unconscious` and make death saving throws. Mighty villains and special nonplayer characters
+are common exceptions; the GM might have them fall :ref:`srd:unconscious` and
 follow the same rules as player characters.
 
 Knocking a Creature Out
@@ -226,7 +226,7 @@ Sometimes an attacker wants to incapacitate a foe, rather than deal a
 killing blow. When an attacker reduces a creature to 0 hit points with a
 melee attack, the attacker can knock the creature out. The attacker can
 make this choice the instant the damage is dealt. The creature falls
-unconscious and is stable.
+:ref:`srd:unconscious` and is stable.
 
 Temporary Hit Points
 ^^^^^^^^^^^^^^^^^^^^

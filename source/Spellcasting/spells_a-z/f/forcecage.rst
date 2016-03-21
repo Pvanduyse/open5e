@@ -15,7 +15,7 @@ Forcecage
 
 **Duration:** 1 hour
 
-An immobile, invisible, cube shaped prison composed of magical force
+An immobile, :ref:`srd:invisible`, cube shaped prison composed of magical force
 springs into existence around an area you choose within range. The
 prison can be a cage or a solid box, as you choose.
 

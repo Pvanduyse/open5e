@@ -68,7 +68,7 @@ Apparatus of the Crab Levers
 |                 | melee weapon attacks:       | melee weapon attacks: +8        |
 |                 | +8 to hit, reach 5ft., one  | to hit, reach 5ft., one         |
 |                 | target. Hit: 7 (2d6)        | target. Hit: The target is      |
-|                 | bludgeoning damage.         | grappled (escape DC 15)         |
+|                 | bludgeoning damage.         | :ref:`srd:grappled` (escape DC 15)         |
 +-----------------+-----------------------------+---------------------------------+
 | 6               | The apparatus walks or      | The apparatus walks or          |
 |                 | swims forward.              | swims backward.                 |

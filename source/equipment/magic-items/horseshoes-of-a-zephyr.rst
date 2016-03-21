@@ -14,6 +14,6 @@ effect means the creature can cross or stand above nonsolid or unstable
 surfaces, such as water or lava. The creature leaves no tracks and
 ignores difficult terrain. In addition, the creature can move
 
-at normal speed for up to 12 hours a day without suffering exhaustion
+at normal speed for up to 12 hours a day without suffering :ref:`srd:exhaustion`
 from a forced march.
 

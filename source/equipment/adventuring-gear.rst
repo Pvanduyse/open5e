@@ -257,7 +257,7 @@ spellcasting focus.
 **Ball Bearings.** As an action, you can spill these tiny metal balls
 from their pouch to cover a level, square area that is 10 feet on a
 side. A creature moving across the covered area must succeed on a DC 10
-Dexterity saving throw or fall prone. A creature moving through the area
+Dexterity saving throw or fall :ref:`srd:prone`. A creature moving through the area
 at half speed doesn't need to make the save.
 
 **Block and Tackle.** A set of pulleys with a cable threaded through
@@ -400,7 +400,7 @@ turn in the area. A creature can take this damage only once per turn.
 
 **Poison, Basic.** You can use the poison in this vial to coat one
 slashing or piercing weapon or up to three pieces of ammunition.
-Applying the poison takes an action. A creature hit by the poisoned
+Applying the poison takes an action. A creature hit by the :ref:`srd:poisoned`
 weapon or ammunition must make a DC 10 Constitution saving throw or take
 1d4 poison damage. Once applied, the poison retains potency for 1 minute
 before drying.
