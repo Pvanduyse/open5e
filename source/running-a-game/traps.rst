@@ -9,7 +9,7 @@ and bone. The seemingly innocuous vines that hang over a cave entrance
 might grasp and choke anyone who pushes through them. A net hidden among
 the trees might drop on travelers who pass underneath. In a fantasy
 game, unwary adventurers can fall to their deaths, be burned alive, or
-fall under a fusillade of :ref:`srd:poisoned` darts.
+fall under a fusillade of poisoned darts.
 
 A trap can be either mechanical or magical in nature. **Mechanical
 traps** include pits, arrow traps, falling blocks, water-filled rooms,
@@ -336,7 +336,7 @@ Poison Needle
 
 Mechanical trap
 
-A :ref:`srd:poisoned` needle is hidden within a treasure chest's lock, or in
+A poisoned needle is hidden within a treasure chest's lock, or in
 something else that a creature might open. Opening the chest without the
 proper key causes the needle to spring out, delivering a dose of poison.
 

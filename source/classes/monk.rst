@@ -259,7 +259,7 @@ Purity of Body
 .. sidebar:: Sage Advice
     :class: official
     
-    Purity of Body grants immunity to both poison damage and the :ref:`srd:Poisoned` condition.
+    Purity of Body grants immunity to both poison damage and the :ref:`srd:poisoned` condition.
     
     .. rst-class:: source
     

@@ -18,7 +18,7 @@ Modify Memory
 You attempt to reshape another creature's memories. One creature that
 you can see must make a Wisdom saving throw. If you are fighting the
 creature, it has advantage on the saving throw. On a failed save, the
-target becomes :ref:`srd:charmed` by you for the duration. The :ref:`srd:charmed` target is
+target becomes :ref:`srd:charmed` by you for the duration. The charmed target is
 :ref:`srd:incapacitated` and unaware of its surroundings, though it can still hear
 you. If it takes any damage or is targeted by another spell, this spell
 ends, and none of the target's memories are modified.

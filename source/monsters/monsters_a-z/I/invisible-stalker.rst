@@ -1,7 +1,7 @@
 
-.. _srd::ref:`srd:invisible`-stalker:
+.. _srd:invisible-stalker:
 
-:ref:`srd:Invisible` Stalker
+Invisible Stalker
 -----------------
 
 Medium elemental, neutral
@@ -43,7 +43,7 @@ the same plane of existence. The stalker also knows the location of its
 summoner.
 
 Actions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~
 
 **Multiattack**: The stalker makes two slam attacks.
 

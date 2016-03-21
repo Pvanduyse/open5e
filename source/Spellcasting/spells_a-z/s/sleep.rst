@@ -19,7 +19,7 @@ cricket)
 This spell sends creatures into a magical slumber. Roll 5d8; the total
 is how many hit points of creatures this spell can affect. Creatures
 within 20 feet of a point you choose within range are affected in
-ascending order of their current hit points (ignoring :ref:`srd:unconscious`
+ascending order of their current hit points (ignoring unconscious
 creatures).
 
 Starting with the creature that has the lowest current hit points, each

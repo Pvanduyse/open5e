@@ -191,17 +191,17 @@ seize the target by making a grapple check instead of an attack roll: a
 Strength (Athletics) check contested by the target's Strength
 (Athletics) or Dexterity (Acrobatics) check (the target chooses the
 ability to use). If you succeed, you subject the target to the :ref:`srd:grappled`
-condition (see appendix A). The condition specifies the things that end
+condition (see :ref:`srd:conditions`). The condition specifies the things that end
 it, and you can release the target whenever you like (no action
 required).
 
-**Escaping a Grapple.** A :ref:`srd:grappled` creature can use
+**Escaping a Grapple.** A grappled creature can use
 its action to escape. To do so, it must succeed on a Strength
 (Athletics) or Dexterity (Acrobatics) check contested by your Strength
 (Athletics) check.
 
-**Moving a :ref:`srd:Grappled` Creature.** When you move, you can drag or carry
-the :ref:`srd:grappled` creature with you, but your speed is halved, unless the
+**Moving a Grappled Creature.** When you move, you can drag or carry
+the grappled creature with you, but your speed is halved, unless the
 creature is two or more sizes smaller than you.
 
 

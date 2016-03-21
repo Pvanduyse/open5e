@@ -18,7 +18,7 @@ parchment)
 
 You touch a length of rope that is up to 60 feet long. One end of the
 rope then rises into the air until the whole rope hangs perpendicular to
-the ground. At the upper end of the rope, an :ref:`srd:invisible` entrance opens to
+the ground. At the upper end of the rope, an invisible entrance opens to
 an extradimensional space that lasts until the spell ends.
 
 The extradimensional space can be reached by climbing to the top of the

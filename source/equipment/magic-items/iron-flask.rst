@@ -46,7 +46,7 @@ d100    Content
 74--75  Djinni
 76--77  Efreeti
 78--83  Elemental (any)
-84--86  :ref:`srd:Invisible` stalker
+84--86  Invisible stalker
 87--90  Night hag
 91      Planetar
 92--95  Salamander

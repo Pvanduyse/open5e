@@ -19,7 +19,7 @@ charge and command another creature to flee or grovel, as with the
 expend 2 charges, causing the wand's tip to emit a 60-foot cone of
 amber light. Each creature in the cone must succeed on a DC 15 Wisdom
 saving throw or become :ref:`srd:frightened` of you for 1 minute. While it is
-:ref:`srd:frightened` in this way, a creature must spend its turns trying to move
+frightened in this way, a creature must spend its turns trying to move
 as far away from you as it can, and it can't willingly move to a space
 within 30 feet of you. It also can't take reactions. For its action, it
 can use only the Dash action or try to escape from an effect that

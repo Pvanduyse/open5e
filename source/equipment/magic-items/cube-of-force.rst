@@ -13,7 +13,7 @@ You can use an action to press one of the cube's faces, expending a
 number of charges based on the chosen face, as shown in the Cube of
 Force Faces table. Each face has a different effect. If the cube has
 insufficient charges remaining, nothing happens. Otherwise, a barrier of
-:ref:`srd:invisible` force springs into existence, forming a cube 15 feet on a
+invisible force springs into existence, forming a cube 15 feet on a
 side. The barrier is centered on you, moves with you, and lasts for 1
 minute, until you use an action to press the cube's sixth face, or the
 cube runs out of charges. You can change the barrier's effect by

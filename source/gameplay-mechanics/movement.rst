@@ -51,7 +51,7 @@ For each additional hour of travel beyond 8 hours, the characters cover
 the distance shown in the Hour column for their pace, and each character
 must make a Constitution saving throw at the end of the hour. The DC is
 10 + 1 for each hour past 8 hours. On a failed saving throw, a character
-suffers one level of :ref:`srd:exhaustion` (see appendix A).
+suffers one level of :ref:`srd:exhaustion`.
 
 **Mounts and Vehicles.** For short spans of time (up to an hour), many
 animals move much faster than humanoids. A mounted character can ride at

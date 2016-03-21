@@ -17,6 +17,8 @@ adventurer. At the end of a fall, a creature takes 1d6 bludgeoning
 damage for every 10 feet it fell, to a maximum of 20d6. The creature
 lands :ref:`srd:prone`, unless it avoids taking damage from the fall.
 
+.. _srd:suffocating:
+
 Suffocating
 ~~~~~~~~~~~
 
@@ -48,7 +50,7 @@ sight.
 
 A **heavily obscured** area---such as darkness, opaque fog, or dense
 foliage---blocks vision entirely. A creature effectively suffers from the
-:ref:`srd:blinded` condition (see appendix A) when trying to see something in that
+:ref:`srd:blinded` condition when trying to see something in that
 area.
 
 The presence or absence of light in an environment creates three
@@ -100,8 +102,7 @@ Ethereal Plane.
 Food and Water
 ~~~~~~~~~~~~~~
 
-Characters who don't eat or drink suffer the effects of :ref:`srd:exhaustion` (see
-appendix A). :ref:`srd:Exhaustion` caused by lack of food or water can't be removed
+Characters who don't eat or drink suffer the effects of :ref:`srd:exhaustion`. Exhaustion caused by lack of food or water can't be removed
 until the character eats and drinks the full required amount.
 
 Food

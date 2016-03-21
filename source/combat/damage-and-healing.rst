@@ -152,7 +152,7 @@ When you drop to 0 hit points, you either die outright or fall
 :ref:`srd:unconscious`, as explained in the following sections.
 
 Instant Death
-~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~
 
 Massive damage can kill you instantly. When damage reduces you to 0 hit
 points and there is damage remaining, you die if the remaining damage
@@ -163,11 +163,11 @@ hit points. If she takes 18 damage from an attack, she is reduced to 0
 hit points, but 12 damage remains. Because the remaining damage equals
 her hit point maximum, the cleric dies.
 
-Falling :ref:`srd:Unconscious`
+Falling Unconscious
 ~~~~~~~~~~~~~~~~~~~
 
 If damage reduces you to 0 hit points and fails to kill you, you fall
-:ref:`srd:unconscious` (see appendix A). This :ref:`srd:unconscious`ness ends if you regain
+:ref:`srd:unconscious`. This unconsciousness ends if you regain
 any hit points.
 
 Death Saving Throws

@@ -16,7 +16,7 @@ gemstone)
 
 **Duration:** Concentration, up to 10 minutes
 
-An :ref:`srd:invisible` wall of force springs into existence at a point you choose
+An invisible wall of force springs into existence at a point you choose
 within range. The wall appears in any orientation you choose, as a
 horizontal or vertical barrier or at an angle. It can be free floating
 or resting on a solid surface. You can form it into a hemispherical dome

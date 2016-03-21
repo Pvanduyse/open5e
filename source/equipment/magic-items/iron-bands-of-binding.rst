@@ -21,7 +21,7 @@ the bands to contract and become a sphere once more.
 
 A creature, including the one :ref:`srd:restrained`, can use an action to make a DC
 20 Strength check to break the iron bands. On a success, the item is
-destroyed, and the :ref:`srd:restrained` creature is freed. If the check fails, any
+destroyed, and the restrained creature is freed. If the check fails, any
 further attempts made by that creature automatically fail until 24 hours
 have elapsed.
 

@@ -139,7 +139,7 @@ Invisible
 Paralyzed
 ---------
 
--  A paralyzed creature is :ref:`srd:incapacitated` (see the condition) and can't
+-  A paralyzed creature is :ref:`srd:incapacitated` and can't
    move or speak.
 
 -  The creature automatically fails Strength and Dexterity saving
@@ -159,7 +159,7 @@ Petrified
    it is wearing or carrying, into a solid inanimate substance (usually
    stone). Its weight increases by a factor of ten, and it ceases aging.
 
--  The creature is :ref:`srd:incapacitated` (see the condition), can't move or
+-  The creature is :ref:`srd:incapacitated`, can't move or
    speak, and is unaware of its surroundings.
 
 -  Attack rolls against the creature have advantage.
@@ -212,7 +212,7 @@ Restrained
 Stunned
 -------
 
--  A stunned creature is :ref:`srd:incapacitated` (see the condition), can't move,
+-  A stunned creature is :ref:`srd:incapacitated`, can't move,
    and can speak only falteringly.
 
 -  The creature automatically fails Strength and Dexterity saving
@@ -225,7 +225,7 @@ Stunned
 Unconscious
 -----------
 
--  An unconscious creature is :ref:`srd:incapacitated` (see the condition), can't
+-  An unconscious creature is :ref:`srd:incapacitated`, can't
    move or speak, and is unaware of its surroundings
 
 -  The creature drops whatever it's holding and falls :ref:`srd:prone`.
